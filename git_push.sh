@@ -1,4 +1,3 @@
-git pull
 git add .
-git commit -m "commit"
+git commit -m "commit1"
 git push 
